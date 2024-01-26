@@ -1,0 +1,7 @@
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\obj\Debug\CSBusinessApp.csproj.AssemblyReference.cache
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\obj\Debug\CSBusinessApp.csproj.CoreCompileInputs.cache
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\bin\Debug\CSBusinessApp.exe.config
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\bin\Debug\CSBusinessApp.exe
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\bin\Debug\CSBusinessApp.pdb
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\obj\Debug\CSBusinessApp.exe
+D:\Study\Second semester\CSharp\CSBusinessApp\CSBusinessApp\obj\Debug\CSBusinessApp.pdb
