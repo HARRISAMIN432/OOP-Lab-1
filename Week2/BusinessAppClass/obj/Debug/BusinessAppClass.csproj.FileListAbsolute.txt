@@ -1,0 +1,7 @@
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\bin\Debug\BusinessAppClass.exe.config
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\bin\Debug\BusinessAppClass.exe
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\bin\Debug\BusinessAppClass.pdb
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\obj\Debug\BusinessAppClass.csproj.AssemblyReference.cache
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\obj\Debug\BusinessAppClass.csproj.CoreCompileInputs.cache
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\obj\Debug\BusinessAppClass.exe
+D:\Study\Second semester\CSharp\BusinessAppClass\BusinessAppClass\obj\Debug\BusinessAppClass.pdb
