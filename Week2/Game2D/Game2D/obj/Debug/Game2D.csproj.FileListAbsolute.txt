@@ -1,0 +1,7 @@
+D:\Study\Second semester\CSharp\Game2D\Game2D\bin\Debug\Game2D.exe.config
+D:\Study\Second semester\CSharp\Game2D\Game2D\bin\Debug\Game2D.exe
+D:\Study\Second semester\CSharp\Game2D\Game2D\bin\Debug\Game2D.pdb
+D:\Study\Second semester\CSharp\Game2D\Game2D\obj\Debug\Game2D.csproj.AssemblyReference.cache
+D:\Study\Second semester\CSharp\Game2D\Game2D\obj\Debug\Game2D.csproj.CoreCompileInputs.cache
+D:\Study\Second semester\CSharp\Game2D\Game2D\obj\Debug\Game2D.exe
+D:\Study\Second semester\CSharp\Game2D\Game2D\obj\Debug\Game2D.pdb
