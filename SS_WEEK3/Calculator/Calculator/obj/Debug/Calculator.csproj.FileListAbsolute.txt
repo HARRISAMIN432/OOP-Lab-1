@@ -1,0 +1,7 @@
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Programming Day\SS_WEEK3\Calculator\Calculator\obj\Debug\Calculator.pdb

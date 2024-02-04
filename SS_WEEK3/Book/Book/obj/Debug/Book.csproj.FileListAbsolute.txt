@@ -1,0 +1,7 @@
+D:\Programming Day\SS_WEEK3\Book\Book\bin\Debug\Book.exe.config
+D:\Programming Day\SS_WEEK3\Book\Book\bin\Debug\Book.exe
+D:\Programming Day\SS_WEEK3\Book\Book\bin\Debug\Book.pdb
+D:\Programming Day\SS_WEEK3\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\Programming Day\SS_WEEK3\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Programming Day\SS_WEEK3\Book\Book\obj\Debug\Book.exe
+D:\Programming Day\SS_WEEK3\Book\Book\obj\Debug\Book.pdb

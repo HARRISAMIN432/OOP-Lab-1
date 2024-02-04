@@ -1,0 +1,7 @@
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.AssemblyReference.cache
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.CoreCompileInputs.cache
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+D:\Programming Day\SS_WEEK3\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
