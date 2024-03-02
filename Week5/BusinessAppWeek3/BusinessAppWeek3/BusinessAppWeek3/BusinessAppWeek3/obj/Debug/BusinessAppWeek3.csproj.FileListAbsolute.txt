@@ -1,0 +1,14 @@
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.exe.config
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.exe
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.pdb
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.csproj.AssemblyReference.cache
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.csproj.CoreCompileInputs.cache
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.exe
+D:\Programming Day\SS_WEEK3\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.pdb
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.exe.config
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.exe
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\bin\Debug\BusinessAppWeek3.pdb
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.csproj.AssemblyReference.cache
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.csproj.CoreCompileInputs.cache
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.exe
+D:\Programming Day\SS_WEEK5\BusinessAppWeek3\BusinessAppWeek3\obj\Debug\BusinessAppWeek3.pdb
