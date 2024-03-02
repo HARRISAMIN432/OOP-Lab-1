@@ -1,0 +1,14 @@
+orange juice,Drink,60
+lemonade,Drink,50
+Cranberry juice,Drink,100
+Pineapple juice,Drink,100
+Lemon Iced Tea,Drink,120
+Vanilla Chai Latte,Drink,150
+Hot Chocolate,Drink,140
+Iced Coffee,Drink,140
+Tuna Sandwich,Food,300
+Ham and cheese sandwich,Food,300
+Egg Sandwich,Food,200
+Steak,Food,900
+Hamburger,Food,600
+Cinnamon Roll,Food,150
